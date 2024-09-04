@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 
 # 
+
+dotnet run
+
 http://localhost:5281/
 
 
