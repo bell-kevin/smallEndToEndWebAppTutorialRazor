@@ -2,15 +2,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using System.Linq; // Required for LINQ queries
-using RazorPagesMovie.Data; // Adjust this to your actual namespace for the DbContext
-using RazorPagesMovie.Models; // Adjust this to your actual namespace for the User model
+using RazorPagesMovie.Data; 
+using RazorPagesMovie.Models; 
 
 namespace RazorPagesMovie.Pages
 {
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
-        private readonly ApplicationDbContext _context; // Your DbContext
+        private readonly ApplicationDbContext _context; // DbContext
 
         public IndexModel(ILogger<IndexModel> logger, ApplicationDbContext context)
         {
