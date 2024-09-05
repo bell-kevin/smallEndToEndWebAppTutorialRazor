@@ -1,0 +1,38 @@
+@page
+@model RazorPagesMovie.Pages.SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h2>Sign Up</h2>
+
+<form method="post">
+    <div>
+        <label>Email</label>
+        <input asp-for="User.Email" />
+        <span asp-validation-for="User.Email"></span>
+    </div>
+    <div>
+        <label>Password</label>
+        <input asp-for="User.Password" type="password" />
+        <span asp-validation-for="User.Password"></span>
+    </div>
+    <div>
+        <label>First Name</label>
+        <input asp-for="User.FirstName" />
+        <span asp-validation-for="User.FirstName"></span>
+    </div>
+    <div>
+        <label>Last Name</label>
+        <input asp-for="User.LastName" />
+        <span asp-validation-for="User.LastName"></span>
+    </div>
+    <div>
+        <label>Birth Date</label>
+        <input asp-for="User.BirthDate" type="date" />
+        <span asp-validation-for="User.BirthDate"></span>
+    </div>
+    <button type="submit">Sign Up</button>
+</form>
+
+<a href="/SignIn">Already have an account? Sign In</a>
