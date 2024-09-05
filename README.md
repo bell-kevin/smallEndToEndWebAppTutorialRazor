@@ -8,6 +8,10 @@ bell@BellLaptop:~/RazorPagesMovie$ dotnet run --project RazorPagesMovie.csproj
 
 http://localhost:5077/
 
+![p](https://github.com/bell-kevin/cs3750smallEndToEndWebAppTutorialRazor/blob/main/Screenshots/Screenshot%20from%202024-09-04%2022-39-00.png)
+
+![p](https://github.com/bell-kevin/cs3750smallEndToEndWebAppTutorialRazor/blob/main/Screenshots/Screenshot%20from%202024-09-04%2022-40-01.png)
+
 Assignment 1 is an individual assignment.
 
 Grading policy:
