@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Assignment 1 - Small end to end Web Application
+# Small end to end Web Application
 
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-8.0&tabs=visual-studio
 
