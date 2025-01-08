@@ -12,9 +12,7 @@ http://localhost:5077/
 
 ![p](https://github.com/bell-kevin/cs3750smallEndToEndWebAppTutorialRazor/blob/main/Screenshots/Screenshot%20from%202024-09-04%2022-40-01.png)
 
-Our intention here is to appreciate and understand the complexity when we start putting all our knowledge together to build a tiny application. 
-
-Tutorials:
+Tutorial:
 
 Using Razor Page: 
 
