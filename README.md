@@ -12,11 +12,7 @@ http://localhost:5077/
 
 ![p](https://github.com/bell-kevin/cs3750smallEndToEndWebAppTutorialRazor/blob/main/Screenshots/Screenshot%20from%202024-09-04%2022-40-01.png)
 
-Assignment 1 is an individual assignment.
-
-Grading policy:
-
-Assignment 1 will be graded based on attempt and not necessarily based on completion. You must finish one of the two tutorials mentioned below.  If you can complete the steps 1-4 in the To-Do list, you will definitely receive full credit. Any reasonable attempt to complete the assignment will also receive full credit. Our intention here is to appreciate and understand the complexity when we start putting all our knowledge together to build a tiny application. 
+Our intention here is to appreciate and understand the complexity when we start putting all our knowledge together to build a tiny application. 
 
 Tutorials:
 
